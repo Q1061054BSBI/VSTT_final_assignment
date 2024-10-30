@@ -23,3 +23,7 @@ This script is designed for data preprocessing and cleaning of the Olist Brazili
 2. **Execution**: Run the script using the command:
    ```bash
    python3 main.py
+
+**Python Version**: The code has been tested with Python version 3.12.0.
+
+**Notes**: This code was developed for educational purposes, with all modifications tailored to the goals of this learning project. The dataset required for this script can be found [here on Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
